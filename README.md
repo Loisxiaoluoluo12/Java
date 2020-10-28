@@ -92,4 +92,4 @@ Student(int id,String name,String sex,int tele,int grade,String ownclass){
 (3)运行结果3
 ![alt console](http://m.qpic.cn/psc?/V52yqGBZ0K1FfT4VLt0D434dKK44lH1q/45NBuzDIW489QBoVep5mcSXsy9Vk4kFbiGhJnCiSpq3q5LvNAlEDL2I554PhcsMASu2HyK0zaaDUVBAXmkvatzcNV6nUDKP*MLOgOOCydKs!/b&bo=dwOZAAAAAAADF98!&rf=viewer_4) 
 ## 实验感想 
-在该实验中，我掌握如何写构造方法、掌握了权限的使用要求，并知道了如何继承父类的属性和方法，熟悉了通过super关键字调用父类的构造方法。希望在以后的学习中能够了解到更多的编程信息。  
+在该实验中，我掌握如何写构造方法、掌握了权限的使用要求，并知道了如何继承父类的属性和方法，熟悉了通过super关键字调用父类的构造方法。希望在以后的学习中能够了解到更多的编程信息。    
