@@ -69,12 +69,20 @@ public int getId() {
 		this.id = id;
 	}
 ```
-  (3)重写的toString方法
+(3)重写的toString方法
 ```
   public String toString() {
 			// TODO Auto-generated method stub
 			return "courseid="+getCourseid()+"coursename="+getCoursename()+"address="+getAddress()+"time="+getTime()+"courseteacher="+getCourseteacher()+"source="+getSource();
 		}
+```
+(4)运用super关键字调用父类的构造方法
+```
+Student(int id,String name,String sex,int tele,int grade,String ownclass){
+		super(id,name,sex,tele);
+		this.grade=grade;
+		this.ownclass=ownclass;
+	}
 ```
 ## 实验结果
 (1)运行结果1
